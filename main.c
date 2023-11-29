@@ -12,6 +12,7 @@ int main()
     while(1){
 
     int i,j;
+    // here just a comment fr github comment
     char h,answer[10];
     int up=72,down=80,left=75,right=77,lvl,lvlchoise;
     int direction,last_direc=right;
